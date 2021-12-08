@@ -36,7 +36,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="45" height="45"/> </a> 
+    <a href="" target="_blank"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="45" height="45"/> </a> 
